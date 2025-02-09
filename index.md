@@ -3,3 +3,6 @@
  ``` java
 string sport = "Soccer";
 ```
+- [ ] Do daily leetcode
+- [ ] Do errands
+- [ ] Finish this course
